@@ -1,0 +1,68 @@
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\LLAMAGAS\Servicio API FE\ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.deps.json
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\LLAMAGAS\Servicio API FE\ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.dll
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\LLAMAGAS\Servicio API FE\ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.pdb
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\LLAMAGAS\Servicio API FE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.csprojAssemblyReference.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\LLAMAGAS\Servicio API FE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.AssemblyInfoInputs.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\LLAMAGAS\Servicio API FE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.AssemblyInfo.cs
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\LLAMAGAS\Servicio API FE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.csproj.CoreCompileInputs.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\LLAMAGAS\Servicio API FE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.dll
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\LLAMAGAS\Servicio API FE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.pdb
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.deps.json
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.dll
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.pdb
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.csprojAssemblyReference.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.AssemblyInfoInputs.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.AssemblyInfo.cs
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.csproj.CoreCompileInputs.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.dll
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.pdb
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.deps.json
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.dll
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.pdb
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.csproj.AssemblyReference.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.GeneratedMSBuildEditorConfig.editorconfig
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.AssemblyInfoInputs.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.AssemblyInfo.cs
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.csproj.CoreCompileInputs.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.dll
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.pdb
+D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.deps.json
+D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.dll
+D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.pdb
+D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.csproj.AssemblyReference.cache
+D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.GeneratedMSBuildEditorConfig.editorconfig
+D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.AssemblyInfoInputs.cache
+D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.AssemblyInfo.cs
+D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.csproj.CoreCompileInputs.cache
+D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.dll
+D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.pdb
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.deps.json
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.dll
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.pdb
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.csproj.AssemblyReference.cache
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.GeneratedMSBuildEditorConfig.editorconfig
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.AssemblyInfoInputs.cache
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.AssemblyInfo.cs
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.csproj.CoreCompileInputs.cache
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.dll
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.pdb
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.deps.json
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.dll
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.pdb
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.csproj.AssemblyReference.cache
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.GeneratedMSBuildEditorConfig.editorconfig
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.AssemblyInfoInputs.cache
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.AssemblyInfo.cs
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.csproj.CoreCompileInputs.cache
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.dll
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.pdb
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.deps.json
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.dll
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.pdb
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.csproj.AssemblyReference.cache
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.GeneratedMSBuildEditorConfig.editorconfig
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.AssemblyInfoInputs.cache
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.AssemblyInfo.cs
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.csproj.CoreCompileInputs.cache
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.dll
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.pdb

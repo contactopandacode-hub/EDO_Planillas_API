@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\COMPILADO</_PublishTargetUrl>
+    <History>True|2023-05-30T23:09:23.4004516Z;True|2023-05-30T18:02:22.9153827-05:00;True|2023-05-30T17:53:08.6673962-05:00;True|2023-05-30T16:59:38.5179496-05:00;True|2023-05-29T15:04:25.1444659-05:00;</History>
+  </PropertyGroup>
+</Project>

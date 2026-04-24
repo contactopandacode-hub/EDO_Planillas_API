@@ -1,0 +1,61 @@
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\Encripte\bin\Debug\Encripte.exe.config
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\Encripte\bin\Debug\Encripte.exe
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\Encripte\bin\Debug\Encripte.pdb
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\Encripte\bin\Debug\eCryptography.dll
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\Encripte\obj\Debug\Encripte.Form1.resources
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\Encripte\obj\Debug\Encripte.Properties.Resources.resources
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.GenerateResource.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.CoreCompileInputs.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.CopyComplete
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\Encripte\obj\Debug\Encripte.exe
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\Encripte\obj\Debug\Encripte.pdb
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\Encripte\obj\Debug\Encripte.csprojAssemblyReference.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\Encripte\bin\Debug\Encripte.exe.config
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\Encripte\bin\Debug\Encripte.exe
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\Encripte\bin\Debug\Encripte.pdb
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\Encripte\bin\Debug\eCryptography.dll
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.AssemblyReference.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\Encripte\obj\Debug\Encripte.Form1.resources
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\Encripte\obj\Debug\Encripte.Properties.Resources.resources
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.GenerateResource.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.CoreCompileInputs.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.CopyComplete
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\Encripte\obj\Debug\Encripte.exe
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\Encripte\obj\Debug\Encripte.pdb
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\Encripte\bin\Debug\Encripte.exe.config
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\Encripte\bin\Debug\Encripte.exe
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\Encripte\bin\Debug\Encripte.pdb
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\Encripte\bin\Debug\eCryptography.dll
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.AssemblyReference.cache
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\Encripte\obj\Debug\Encripte.Form1.resources
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\Encripte\obj\Debug\Encripte.Properties.Resources.resources
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.GenerateResource.cache
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.CoreCompileInputs.cache
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.Up2Date
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\Encripte\obj\Debug\Encripte.exe
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\Encripte\obj\Debug\Encripte.pdb
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\Encripte\bin\Debug\Encripte.exe.config
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\Encripte\bin\Debug\Encripte.exe
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\Encripte\bin\Debug\Encripte.pdb
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\Encripte\bin\Debug\eCryptography.dll
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.AssemblyReference.cache
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\Encripte\obj\Debug\Encripte.exe.config
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\Encripte\obj\Debug\Encripte.Form1.resources
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\Encripte\obj\Debug\Encripte.Properties.Resources.resources
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.GenerateResource.cache
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.CoreCompileInputs.cache
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.Up2Date
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\Encripte\obj\Debug\Encripte.exe
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\Encripte\obj\Debug\Encripte.pdb
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\Encripte\bin\Debug\Encripte.exe.config
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\Encripte\bin\Debug\Encripte.exe
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\Encripte\bin\Debug\Encripte.pdb
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\Encripte\bin\Debug\eCryptography.dll
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.AssemblyReference.cache
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\Encripte\obj\Debug\Encripte.Form1.resources
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\Encripte\obj\Debug\Encripte.Properties.Resources.resources
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.GenerateResource.cache
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.CoreCompileInputs.cache
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.Up2Date
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\Encripte\obj\Debug\Encripte.exe
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\Encripte\obj\Debug\Encripte.pdb

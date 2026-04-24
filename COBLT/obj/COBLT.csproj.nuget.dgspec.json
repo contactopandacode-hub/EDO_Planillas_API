@@ -1,0 +1,255 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\COBLT\\COBLT.csproj": {}
+  },
+  "projects": {
+    "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\COBEC\\COBEC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\COBEC\\COBEC.csproj",
+        "projectName": "COBEC",
+        "projectPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\COBEC\\COBEC.csproj",
+        "packagesPath": "C:\\Users\\ricm\\.nuget\\packages\\",
+        "outputPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\COBEC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ricm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Eramake.eCryptography": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\COBLT\\COBLT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\COBLT\\COBLT.csproj",
+        "projectName": "COBLT",
+        "projectPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\COBLT\\COBLT.csproj",
+        "packagesPath": "C:\\Users\\ricm\\.nuget\\packages\\",
+        "outputPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\COBLT\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ricm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\COBEC\\COBEC.csproj": {
+                "projectPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\COBEC\\COBEC.csproj"
+              },
+              "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\CODAT\\CODAT.csproj": {
+                "projectPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\CODAT\\CODAT.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Eramake.eCryptography": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\CODAT\\CODAT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\CODAT\\CODAT.csproj",
+        "projectName": "CODAT",
+        "projectPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\CODAT\\CODAT.csproj",
+        "packagesPath": "C:\\Users\\ricm\\.nuget\\packages\\",
+        "outputPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\CODAT\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ricm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\COBEC\\COBEC.csproj": {
+                "projectPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\COBEC\\COBEC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Eramake.eCryptography": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NETCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+C:\Users\ApesteguiA\source\repos\ServicioNetCore\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ApesteguiA\source\repos\ServicioNetCore\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ApesteguiA\source\repos\ServicioNetCore\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\ApesteguiA\source\repos\ServicioNetCore\bin\Debug\netcoreapp2.2\ServicioNetCore.deps.json
+C:\Users\ApesteguiA\source\repos\ServicioNetCore\bin\Debug\netcoreapp2.2\ServicioNetCore.runtimeconfig.json
+C:\Users\ApesteguiA\source\repos\ServicioNetCore\bin\Debug\netcoreapp2.2\ServicioNetCore.runtimeconfig.dev.json
+C:\Users\ApesteguiA\source\repos\ServicioNetCore\bin\Debug\netcoreapp2.2\ServicioNetCore.dll
+C:\Users\ApesteguiA\source\repos\ServicioNetCore\obj\Debug\netcoreapp2.2\ServicioNetCore.csprojAssemblyReference.cache
+C:\Users\ApesteguiA\source\repos\ServicioNetCore\obj\Debug\netcoreapp2.2\ServicioNetCore.AssemblyInfoInputs.cache
+C:\Users\ApesteguiA\source\repos\ServicioNetCore\obj\Debug\netcoreapp2.2\ServicioNetCore.AssemblyInfo.cs

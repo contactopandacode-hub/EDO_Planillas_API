@@ -1,0 +1,10 @@
+C:\Users\ApesteguiA\source\repos\ServicioNetCore\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\ApesteguiA\source\repos\ServicioNetCore\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\ApesteguiA\source\repos\ServicioNetCore\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\ApesteguiA\source\repos\ServicioNetCore\bin\Debug\netcoreapp3.0\ServicioNetCore.exe
+C:\Users\ApesteguiA\source\repos\ServicioNetCore\obj\Debug\netcoreapp3.0\ServicioNetCore.csprojAssemblyReference.cache
+C:\Users\ApesteguiA\source\repos\ServicioNetCore\obj\Debug\netcoreapp3.0\staticwebassets\ServicioNetCore.StaticWebAssets.Manifest.cache
+C:\Users\ApesteguiA\source\repos\ServicioNetCore\obj\Debug\netcoreapp3.0\staticwebassets\ServicioNetCore.StaticWebAssets.xml
+C:\Users\ApesteguiA\source\repos\ServicioNetCore\obj\Debug\netcoreapp3.0\ServicioNetCore.AssemblyInfoInputs.cache
+C:\Users\ApesteguiA\source\repos\ServicioNetCore\obj\Debug\netcoreapp3.0\ServicioNetCore.AssemblyInfo.cs
+C:\Users\ApesteguiA\source\repos\ServicioNetCore\obj\Debug\netcoreapp3.0\ServicioNetCore.RazorTargetAssemblyInfo.cache

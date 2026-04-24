@@ -1,0 +1,89 @@
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\LLAMAGAS\Servicio API FE\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.deps.json
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\LLAMAGAS\Servicio API FE\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.dll
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\LLAMAGAS\Servicio API FE\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\COBEC.dll
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\LLAMAGAS\Servicio API FE\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\COBEC.pdb
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\LLAMAGAS\Servicio API FE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csprojAssemblyReference.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\LLAMAGAS\Servicio API FE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.AssemblyInfoInputs.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\LLAMAGAS\Servicio API FE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.AssemblyInfo.cs
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\LLAMAGAS\Servicio API FE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csproj.CopyComplete
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\LLAMAGAS\Servicio API FE\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.pdb
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\LLAMAGAS\Servicio API FE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.dll
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\LLAMAGAS\Servicio API FE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.pdb
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\LLAMAGAS\Servicio API FE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csproj.CoreCompileInputs.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.deps.json
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.dll
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.pdb
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\COBEC.dll
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\COBEC.pdb
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csprojAssemblyReference.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.AssemblyInfoInputs.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.AssemblyInfo.cs
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csproj.CopyComplete
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.dll
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.pdb
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\UPC\FLYWARE\Servicio API FE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csproj.CoreCompileInputs.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.deps.json
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.dll
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.pdb
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\COBEC.dll
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\COBEC.pdb
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.AssemblyInfoInputs.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.AssemblyInfo.cs
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csproj.CoreCompileInputs.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csproj.CopyComplete
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.dll
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.pdb
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csproj.AssemblyReference.cache
+C:\FABRICA\DESARROLLO\DESARROLLO PROYECTOS\PERU\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.GeneratedMSBuildEditorConfig.editorconfig
+D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.deps.json
+D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.dll
+D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.pdb
+D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\COBEC.dll
+D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\COBEC.pdb
+D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csproj.AssemblyReference.cache
+D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.GeneratedMSBuildEditorConfig.editorconfig
+D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.AssemblyInfoInputs.cache
+D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.AssemblyInfo.cs
+D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csproj.CoreCompileInputs.cache
+D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csproj.CopyComplete
+D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.dll
+D:\ROMAN\EMPRESA\NEW ATLETIC\Servicio API ECOMMERCE\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.pdb
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.deps.json
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.dll
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.pdb
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\COBEC.dll
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\COBEC.pdb
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csproj.AssemblyReference.cache
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.GeneratedMSBuildEditorConfig.editorconfig
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.AssemblyInfoInputs.cache
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.AssemblyInfo.cs
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csproj.CoreCompileInputs.cache
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csproj.Up2Date
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.dll
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\SANICENTER\VTEX\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.pdb
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.deps.json
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.dll
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.pdb
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\COBEC.dll
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\COBEC.pdb
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csproj.AssemblyReference.cache
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.AssemblyInfoInputs.cache
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.AssemblyInfo.cs
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csproj.CoreCompileInputs.cache
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csproj.Up2Date
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.dll
+C:\PANDA\SANICENTER\ServicioNetCore\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.pdb
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.deps.json
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.dll
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.pdb
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\COBEC.dll
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\CODAT\bin\Debug\netstandard2.0\COBEC.pdb
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csproj.AssemblyReference.cache
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.AssemblyInfoInputs.cache
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.AssemblyInfo.cs
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csproj.CoreCompileInputs.cache
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csproj.Up2Date
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.dll
+C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.pdb
