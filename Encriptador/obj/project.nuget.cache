@@ -1,26 +1,26 @@
 {
   "version": 2,
-  "dgSpecHash": "mzPGvbxiSvs=",
+  "dgSpecHash": "GgorFZKnV7U=",
   "success": true,
-  "projectFilePath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\Encriptador\\Encriptador.csproj",
+  "projectFilePath": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\Encriptador\\Encriptador.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ricm\\.nuget\\packages\\eramake.ecryptography\\1.1.6\\eramake.ecryptography.1.1.6.nupkg.sha512",
-    "C:\\Users\\ricm\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\ricm\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\ricm\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "C:\\Users\\ricm\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "C:\\Users\\ricm\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\ricm\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
-    "C:\\Users\\ricm\\.nuget\\packages\\textcopy\\3.3.0\\textcopy.3.3.0.nupkg.sha512"
+    "C:\\Users\\Roman.W\\.nuget\\packages\\eramake.ecryptography\\1.1.6\\eramake.ecryptography.1.1.6.nupkg.sha512",
+    "C:\\Users\\Roman.W\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Roman.W\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Roman.W\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Roman.W\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Roman.W\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Roman.W\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\Roman.W\\.nuget\\packages\\textcopy\\3.3.0\\textcopy.3.3.0.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1701",
       "level": "Warning",
-      "message": "El paquete \"Eramake.eCryptography 1.1.6\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \".NETCoreApp,Version=v3.1\". Puede que el paquete no sea totalmente compatible con el proyecto.",
-      "projectPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\Encriptador\\Encriptador.csproj",
+      "message": "Package 'Eramake.eCryptography 1.1.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "projectPath": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\Encriptador\\Encriptador.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\Encriptador\\Encriptador.csproj",
+      "filePath": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\Encriptador\\Encriptador.csproj",
       "libraryId": "Eramake.eCryptography",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"

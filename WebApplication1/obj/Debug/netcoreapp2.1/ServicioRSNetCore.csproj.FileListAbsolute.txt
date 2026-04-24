@@ -236,3 +236,34 @@ C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\WebApplication1\obj\Deb
 C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.dll
 C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.pdb
 C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.genruntimeconfig.cache
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\bin\Debug\netcoreapp2.1\.filenesting.json
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\bin\Debug\netcoreapp2.1\appsettings.json
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\bin\Debug\netcoreapp2.1\ServicioRSNetCore.deps.json
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\bin\Debug\netcoreapp2.1\ServicioRSNetCore.runtimeconfig.json
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\bin\Debug\netcoreapp2.1\ServicioRSNetCore.runtimeconfig.dev.json
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\bin\Debug\netcoreapp2.1\ServicioRSNetCore.dll
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\bin\Debug\netcoreapp2.1\ServicioRSNetCore.pdb
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\bin\Debug\netcoreapp2.1\COBEC.dll
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\bin\Debug\netcoreapp2.1\COBLT.dll
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\bin\Debug\netcoreapp2.1\CODAT.dll
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\bin\Debug\netcoreapp2.1\COBEC.pdb
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\bin\Debug\netcoreapp2.1\COBLT.pdb
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\bin\Debug\netcoreapp2.1\CODAT.pdb
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.csproj.AssemblyReference.cache
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.AssemblyInfoInputs.cache
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.AssemblyInfo.cs
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.csproj.CoreCompileInputs.cache
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.RazorAssemblyInfo.cache
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.RazorAssemblyInfo.cs
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.sourcelink.json
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.RazorTargetAssemblyInfo.cache
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\obj\Debug\netcoreapp2.1\Servicio.D4F725EE.Up2Date
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.dll
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.pdb
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.genruntimeconfig.cache
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\bin\Debug\netcoreapp2.1\ServicioRSNetCore.xml
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.xml
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\bin\Debug\netcoreapp2.1\COBEC.xml

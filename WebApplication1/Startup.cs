@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Security.Cryptography;
-using System.Text;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -16,6 +9,14 @@ using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using ServicioRSNetCore.Controllers.Clases;
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Reflection;
+using System.Security.Cryptography;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace WebApplication1
 {
@@ -66,6 +67,14 @@ namespace WebApplication1
 
                 });
                 c.OperationFilter<MyHeaderFilter>();
+
+                var xmlFile = "ServicioRSNetCore.xml";
+                var xmlPath = Path.Combine(Directory.GetCurrentDirectory(), "obj", "Debug", "netcoreapp2.1", xmlFile);
+                c.IncludeXmlComments(xmlPath);
+
+                var xmlFileCobec = "COBEC.xml";
+                var xmlPathCobec = Path.Combine(Directory.GetCurrentDirectory(), "..", "COBEC", "obj", "Debug", "netstandard2.0", xmlFileCobec);
+                c.IncludeXmlComments(xmlPathCobec);
             });
         }
 

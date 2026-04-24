@@ -4,13 +4,20 @@ using System.Text;
 
 namespace COBEC
 {
-    // Clase para la respuesta de CONSULTAR PLANILLA
+    /// <summary>
+    /// Respuesta de consulta de planilla del empleado
+    /// </summary>
     public class PlanillaResponse
     {
-        // Datos de CABECERA
+        /// <summary>Código del empleado -->Ejemplo: EMP001</summary>        
         public string Codigo { get; set; }
+
+        /// <summary>Nombre completo del empleado  -->Ejemplo:Walter ROman</summary>        
         public string NombreEmpleado { get; set; }
+
+        /// <summary>Tipo de Plantilla  -->Ejemplo: M = Mensual / A=  </summary>     
         public string TipoPlanilla { get; set; }
+       
         public string DescripcionPlanilla { get; set; }
         public string TipoDocumento { get; set; }
         public string NumeroDocumento { get; set; }

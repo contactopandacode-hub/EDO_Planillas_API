@@ -66,3 +66,16 @@ C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\COBEC\obj\Debug\netstan
 C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\COBEC\obj\Debug\netstandard2.0\COBEC.csproj.CoreCompileInputs.cache
 C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\COBEC\obj\Debug\netstandard2.0\COBEC.dll
 C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\COBEC\obj\Debug\netstandard2.0\COBEC.pdb
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\COBEC\bin\Debug\netstandard2.0\COBEC.deps.json
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\COBEC\bin\Debug\netstandard2.0\COBEC.dll
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\COBEC\bin\Debug\netstandard2.0\COBEC.pdb
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\COBEC\obj\Debug\netstandard2.0\COBEC.csproj.AssemblyReference.cache
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\COBEC\obj\Debug\netstandard2.0\COBEC.GeneratedMSBuildEditorConfig.editorconfig
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\COBEC\obj\Debug\netstandard2.0\COBEC.AssemblyInfoInputs.cache
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\COBEC\obj\Debug\netstandard2.0\COBEC.AssemblyInfo.cs
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\COBEC\obj\Debug\netstandard2.0\COBEC.csproj.CoreCompileInputs.cache
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\COBEC\obj\Debug\netstandard2.0\COBEC.sourcelink.json
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\COBEC\obj\Debug\netstandard2.0\COBEC.dll
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\COBEC\obj\Debug\netstandard2.0\COBEC.pdb
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\COBEC\bin\Debug\netstandard2.0\COBEC.xml
+D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\COBEC\obj\Debug\netstandard2.0\COBEC.xml

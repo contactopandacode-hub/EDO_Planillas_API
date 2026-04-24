@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = COBEC
-build_property.ProjectDir = C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\COBEC\
+build_property.ProjectDir = D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\COBEC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

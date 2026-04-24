@@ -271,23 +271,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ricm\\.nuget\\packages\\": {},
+    "C:\\Users\\Roman.W\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\Encriptador\\Encriptador.csproj",
+      "projectUniqueName": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\Encriptador\\Encriptador.csproj",
       "projectName": "Encriptador",
-      "projectPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\Encriptador\\Encriptador.csproj",
-      "packagesPath": "C:\\Users\\ricm\\.nuget\\packages\\",
-      "outputPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\V2\\ServicioNetCore\\Encriptador\\obj\\",
+      "projectPath": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\Encriptador\\Encriptador.csproj",
+      "packagesPath": "C:\\Users\\Roman.W\\.nuget\\packages\\",
+      "outputPath": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\Encriptador\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ricm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Roman.W\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -353,7 +353,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -362,7 +362,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "El paquete \"Eramake.eCryptography 1.1.6\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \".NETCoreApp,Version=v3.1\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "message": "Package 'Eramake.eCryptography 1.1.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
       "libraryId": "Eramake.eCryptography",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"

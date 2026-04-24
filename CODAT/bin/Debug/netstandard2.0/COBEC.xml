@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>COBEC</name>
+    </assembly>
+    <members>
+        <member name="T:COBEC.PlanillaResponse">
+            <summary>
+            Respuesta de consulta de planilla del empleado
+            </summary>
+        </member>
+        <member name="P:COBEC.PlanillaResponse.Codigo">
+            <summary>Código del empleado -->Ejemplo: EMP001</summary>        
+        </member>
+        <member name="P:COBEC.PlanillaResponse.NombreEmpleado">
+            <summary>Nombre completo del empleado  -->Ejemplo:Walter ROman</summary>        
+        </member>
+        <member name="P:COBEC.PlanillaResponse.TipoPlanilla">
+            <summary>Tipo de Plantilla  -->Ejemplo: Mensual </summary>     
+        </member>
+    </members>
+</doc>

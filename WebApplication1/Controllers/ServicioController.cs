@@ -27,10 +27,19 @@ namespace ServicioRSNetCore.Controllers
         {
             configuration = _configuration;
             this.context = _context;
-        }        
-        
+        }
+
+        /// <summary>
+        /// Consulta la boleta de planilla de un empleado
+        /// </summary>
+        /// <param name="cobec">Parámetros de consulta</param>
+        /// <returns>Datos de cabecera y detalle de la planilla</returns>
+        /// <response code="200">Retorna la planilla correctamente</response>
+        /// <response code="401">No autorizado</response>
 
         [HttpGet("[action]")]
+        [ProducesResponseType(typeof(PlanillaResponse), 200)]  
+        [ProducesResponseType(401)]
         public ActionResult ConsultarPlanilla ([FromQuery] COBEC_Planilla cobec)
         {
             COBEc_Error obj_error = new COBEc_Error();
