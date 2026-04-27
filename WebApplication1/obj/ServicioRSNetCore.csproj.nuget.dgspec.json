@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\WebApplication1\\ServicioRSNetCore.csproj": {}
+    "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\WebApplication1\\ServicioRSNetCore.csproj": {}
   },
   "projects": {
-    "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\COBEC\\COBEC.csproj": {
+    "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\COBEC\\COBEC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\COBEC\\COBEC.csproj",
+        "projectUniqueName": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\COBEC\\COBEC.csproj",
         "projectName": "COBEC",
-        "projectPath": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\COBEC\\COBEC.csproj",
-        "packagesPath": "C:\\Users\\Roman.W\\.nuget\\packages\\",
-        "outputPath": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\COBEC\\obj\\",
+        "projectPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\COBEC\\COBEC.csproj",
+        "packagesPath": "C:\\Users\\ricm\\.nuget\\packages\\",
+        "outputPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\COBEC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Roman.W\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ricm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -72,24 +72,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\COBLT\\COBLT.csproj": {
+    "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\COBLT\\COBLT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\COBLT\\COBLT.csproj",
+        "projectUniqueName": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\COBLT\\COBLT.csproj",
         "projectName": "COBLT",
-        "projectPath": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\COBLT\\COBLT.csproj",
-        "packagesPath": "C:\\Users\\Roman.W\\.nuget\\packages\\",
-        "outputPath": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\COBLT\\obj\\",
+        "projectPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\COBLT\\COBLT.csproj",
+        "packagesPath": "C:\\Users\\ricm\\.nuget\\packages\\",
+        "outputPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\COBLT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Roman.W\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ricm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -104,11 +104,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\COBEC\\COBEC.csproj": {
-                "projectPath": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\COBEC\\COBEC.csproj"
+              "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\COBEC\\COBEC.csproj": {
+                "projectPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\COBEC\\COBEC.csproj"
               },
-              "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\CODAT\\CODAT.csproj": {
-                "projectPath": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\CODAT\\CODAT.csproj"
+              "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\CODAT\\CODAT.csproj": {
+                "projectPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\CODAT\\CODAT.csproj"
               }
             }
           }
@@ -151,24 +151,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\CODAT\\CODAT.csproj": {
+    "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\CODAT\\CODAT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\CODAT\\CODAT.csproj",
+        "projectUniqueName": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\CODAT\\CODAT.csproj",
         "projectName": "CODAT",
-        "projectPath": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\CODAT\\CODAT.csproj",
-        "packagesPath": "C:\\Users\\Roman.W\\.nuget\\packages\\",
-        "outputPath": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\CODAT\\obj\\",
+        "projectPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\CODAT\\CODAT.csproj",
+        "packagesPath": "C:\\Users\\ricm\\.nuget\\packages\\",
+        "outputPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\CODAT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Roman.W\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ricm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -183,8 +183,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\COBEC\\COBEC.csproj": {
-                "projectPath": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\COBEC\\COBEC.csproj"
+              "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\COBEC\\COBEC.csproj": {
+                "projectPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\COBEC\\COBEC.csproj"
               }
             }
           }
@@ -247,24 +247,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\WebApplication1\\ServicioRSNetCore.csproj": {
+    "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\WebApplication1\\ServicioRSNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\WebApplication1\\ServicioRSNetCore.csproj",
+        "projectUniqueName": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\WebApplication1\\ServicioRSNetCore.csproj",
         "projectName": "ServicioRSNetCore",
-        "projectPath": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\WebApplication1\\ServicioRSNetCore.csproj",
-        "packagesPath": "C:\\Users\\Roman.W\\.nuget\\packages\\",
-        "outputPath": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\WebApplication1\\obj\\",
+        "projectPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\WebApplication1\\ServicioRSNetCore.csproj",
+        "packagesPath": "C:\\Users\\ricm\\.nuget\\packages\\",
+        "outputPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Roman.W\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ricm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -279,14 +279,14 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\COBEC\\COBEC.csproj": {
-                "projectPath": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\COBEC\\COBEC.csproj"
+              "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\COBEC\\COBEC.csproj": {
+                "projectPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\COBEC\\COBEC.csproj"
               },
-              "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\COBLT\\COBLT.csproj": {
-                "projectPath": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\COBLT\\COBLT.csproj"
+              "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\COBLT\\COBLT.csproj": {
+                "projectPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\COBLT\\COBLT.csproj"
               },
-              "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\CODAT\\CODAT.csproj": {
-                "projectPath": "D:\\ROMAN\\DOCUMENTACION PROYECTOS\\ROMAN\\APLICACIONES\\EDO SOKO\\Planillas_API\\CODAT\\CODAT.csproj"
+              "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\CODAT\\CODAT.csproj": {
+                "projectPath": "C:\\PANDA\\Edosoko\\ServicioAPI_Planilla\\Git_ServicioNetCore\\CODAT\\CODAT.csproj"
               }
             }
           }
@@ -372,7 +372,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     }

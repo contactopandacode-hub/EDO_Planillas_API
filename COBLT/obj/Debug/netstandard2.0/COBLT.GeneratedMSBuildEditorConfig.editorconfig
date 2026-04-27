@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = COBLT
-build_property.ProjectDir = D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\COBLT\
+build_property.ProjectDir = C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\COBLT\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

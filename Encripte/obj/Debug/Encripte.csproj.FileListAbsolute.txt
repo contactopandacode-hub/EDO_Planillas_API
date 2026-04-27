@@ -59,3 +59,15 @@ C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\Encripte\obj\Debug\Encr
 C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.Up2Date
 C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\Encripte\obj\Debug\Encripte.exe
 C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\Encripte\obj\Debug\Encripte.pdb
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\Encripte\bin\Debug\Encripte.exe.config
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\Encripte\bin\Debug\Encripte.exe
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\Encripte\bin\Debug\Encripte.pdb
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\Encripte\bin\Debug\eCryptography.dll
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.AssemblyReference.cache
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\Encripte\obj\Debug\Encripte.Form1.resources
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\Encripte\obj\Debug\Encripte.Properties.Resources.resources
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.GenerateResource.cache
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.CoreCompileInputs.cache
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\Encripte\obj\Debug\Encripte.csproj.Up2Date
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\Encripte\obj\Debug\Encripte.exe
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\Encripte\obj\Debug\Encripte.pdb

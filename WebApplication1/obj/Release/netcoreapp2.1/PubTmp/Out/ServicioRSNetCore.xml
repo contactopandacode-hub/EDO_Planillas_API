@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ServicioRSNetCore</name>
+    </assembly>
+    <members>
+        <member name="M:ServicioRSNetCore.Controllers.ServicioController.ConsultarPlanilla(COBEC.COBEC_Planilla)">
+            <summary>
+            Consulta la boleta de planilla de un empleado
+            </summary>
+            <param name="cobec">Parámetros de consulta</param>
+            <returns>Datos de cabecera y detalle de la planilla</returns>
+            <response code="200">Retorna la planilla correctamente</response>
+            <response code="401">No autorizado</response>
+        </member>
+    </members>
+</doc>

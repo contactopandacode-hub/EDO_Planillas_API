@@ -267,3 +267,34 @@ D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebAp
 D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\bin\Debug\netcoreapp2.1\ServicioRSNetCore.xml
 D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.xml
 D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\WebApplication1\bin\Debug\netcoreapp2.1\COBEC.xml
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\bin\Debug\netcoreapp2.1\.filenesting.json
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\bin\Debug\netcoreapp2.1\appsettings.json
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\bin\Debug\netcoreapp2.1\ServicioRSNetCore.deps.json
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\bin\Debug\netcoreapp2.1\ServicioRSNetCore.runtimeconfig.json
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\bin\Debug\netcoreapp2.1\ServicioRSNetCore.runtimeconfig.dev.json
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\bin\Debug\netcoreapp2.1\ServicioRSNetCore.dll
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\bin\Debug\netcoreapp2.1\ServicioRSNetCore.pdb
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\bin\Debug\netcoreapp2.1\ServicioRSNetCore.xml
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\bin\Debug\netcoreapp2.1\COBEC.dll
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\bin\Debug\netcoreapp2.1\COBLT.dll
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\bin\Debug\netcoreapp2.1\CODAT.dll
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\bin\Debug\netcoreapp2.1\COBEC.pdb
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\bin\Debug\netcoreapp2.1\COBEC.xml
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\bin\Debug\netcoreapp2.1\COBLT.pdb
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\bin\Debug\netcoreapp2.1\CODAT.pdb
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.csproj.AssemblyReference.cache
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.AssemblyInfoInputs.cache
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.AssemblyInfo.cs
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.csproj.CoreCompileInputs.cache
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.RazorAssemblyInfo.cache
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.RazorAssemblyInfo.cs
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.sourcelink.json
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.RazorTargetAssemblyInfo.cache
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\obj\Debug\netcoreapp2.1\Servicio.D4F725EE.Up2Date
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.dll
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.xml
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.pdb
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\WebApplication1\obj\Debug\netcoreapp2.1\ServicioRSNetCore.genruntimeconfig.cache

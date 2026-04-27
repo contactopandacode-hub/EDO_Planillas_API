@@ -4,19 +4,90 @@
         <name>COBEC</name>
     </assembly>
     <members>
+        <member name="P:COBEC.COBEC_Planilla.compania">
+            <summary>Codigo de la compania ejemplo: 01000000 = EDO SOKO S.A.C. </summary>  
+            <example>01000000</example>
+        </member>
+        <member name="P:COBEC.COBEC_Planilla.periodo">
+            <summary>Periodo en formato yyyyMMdd ejemplo: 20161212</summary>
+            <example>20161212</example>
+        </member>
+        <member name="P:COBEC.COBEC_Planilla.tipoProceso">
+            <summary>Codigo Tipo Proceso ejemplo: NO0 = Planilla Mensual</summary>
+            <example> NO0 </example>
+        </member>
+        <member name="P:COBEC.COBEC_Planilla.tipoPlanilla">
+            <summary>Codigo Tipo Planilla ejemplo: EM = Empleados</summary>
+            <example> EM </example>
+        </member>
+        <member name="P:COBEC.COBEC_Planilla.empleado">
+            <summary>Codigo Empleado ejemplo: 10017 = KANASHIRO ARAKAKI, NATALIA VERONICA </summary>
+            <example> 10017 </example>
+        </member>
         <member name="T:COBEC.PlanillaResponse">
             <summary>
             Respuesta de consulta de planilla del empleado
             </summary>
         </member>
         <member name="P:COBEC.PlanillaResponse.Codigo">
-            <summary>Código del empleado -->Ejemplo: EMP001</summary>        
+            <summary>Código del empleado -->Ejemplo: 10017</summary>        
         </member>
         <member name="P:COBEC.PlanillaResponse.NombreEmpleado">
-            <summary>Nombre completo del empleado  -->Ejemplo:Walter ROman</summary>        
+            <summary>Nombre completo del empleado  -->Ejemplo:KAN**** A****, NATA** VER****</summary>        
         </member>
         <member name="P:COBEC.PlanillaResponse.TipoPlanilla">
-            <summary>Tipo de Plantilla  -->Ejemplo: Mensual </summary>     
+            <summary>Tipo de Plantilla  -->Ejemplo: EM</summary>     
+        </member>
+        <member name="P:COBEC.PlanillaResponse.DescripcionPlanilla">
+            <summary>Descripcion Planilla  -->Ejemplo: EM = Empleados</summary>   
+        </member>
+        <member name="P:COBEC.PlanillaResponse.TipoDocumento">
+            <summary>Tipo Documento  -->Ejemplo: D: D.N.I </summary>  
+        </member>
+        <member name="P:COBEC.PlanillaResponse.NumeroDocumento">
+            <summary>Numero Documento  -->Ejemplo: 0**5*5*5 </summary>  
+        </member>
+        <member name="P:COBEC.PlanillaResponse.CodigoCargo">
+            <summary>Codigo cargo  -->Ejemplo: 38 </summary>  
+        </member>
+        <member name="P:COBEC.PlanillaResponse.DescripcionCargo">
+            <summary>Descripcion cargo  -->Ejemplo: 38: ASISTENTE DE FINANZAS </summary> 
+        </member>
+        <member name="P:COBEC.PlanillaResponse.Sucursal">
+            <summary>Sucursal  -->Ejemplo: OFICINA PRINCIPAL </summary>   
+        </member>
+        <member name="P:COBEC.PlanillaResponse.CentroCosto">
+            <summary>Centro costo  -->Ejemplo: General Logística</summary> 
+        </member>
+        <member name="P:COBEC.PlanillaResponse.FechaIngreso">
+            <summary>Fecha ingreso  -->Ejemplo: 2009-06-01T00:00:00 </summary> 
+        </member>
+        <member name="P:COBEC.PlanillaResponse.FechaCese">
+            <summary>Fecha cese  -->Ejemplo: 2009-06-01T00:00:00 </summary> 
+        </member>
+        <member name="P:COBEC.PlanillaResponse.TipoContrato">
+            <summary>Tipo contrato  -->Ejemplo: IN </summary> 
+        </member>
+        <member name="P:COBEC.PlanillaResponse.DescripcionTipoContrato">
+            <summary>Descripcion Tipo contrato  -->Ejemplo: IN : A Plazo Indeterminado </summary> 
+        </member>
+        <member name="P:COBEC.PlanillaResponse.CodigoAFP">
+            <summary>Codigo AFP  -->Ejemplo: 04</summary> 
+        </member>
+        <member name="P:COBEC.PlanillaResponse.NombreAFP">
+            <summary>Nombre AFP  -->Ejemplo: 04: Prima</summary> 
+        </member>
+        <member name="P:COBEC.PlanillaResponse.NumeroAFP">
+            <summary>Numero AFP  -->Ejemplo: 56**0**KA**1</summary> 
+        </member>
+        <member name="P:COBEC.PlanillaDetalleItem.Concepto">
+            <summary>Concepto -->Concepto--> codigo que identifica el concepto , la descripcion se encuentra en Texto Impresion  </summary> 
+        </member>
+        <member name="P:COBEC.PlanillaDetalleItem.TipoConcepto">
+            <summary>Tipo concepto-->Ejemplo: IN:Ingresos | DE:Deducciones </summary> 
+        </member>
+        <member name="P:COBEC.PlanillaDetalleItem.TextoImpresion">
+            <summary>Texto Impresion --> Descripcion del concepto ejemplo: 0100:GRATIFICACION ORDINARIA | 0200:Vacaciones  </summary> 
         </member>
     </members>
 </doc>

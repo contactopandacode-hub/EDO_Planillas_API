@@ -102,3 +102,18 @@ D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\CODAT
 D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\CODAT\obj\Debug\netstandard2.0\CODAT.dll
 D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\CODAT\obj\Debug\netstandard2.0\CODAT.pdb
 D:\ROMAN\DOCUMENTACION PROYECTOS\ROMAN\APLICACIONES\EDO SOKO\Planillas_API\CODAT\bin\Debug\netstandard2.0\COBEC.xml
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.deps.json
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.dll
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\CODAT\bin\Debug\netstandard2.0\CODAT.pdb
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\CODAT\bin\Debug\netstandard2.0\COBEC.dll
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\CODAT\bin\Debug\netstandard2.0\COBEC.pdb
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\CODAT\bin\Debug\netstandard2.0\COBEC.xml
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csproj.AssemblyReference.cache
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.AssemblyInfoInputs.cache
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.AssemblyInfo.cs
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csproj.CoreCompileInputs.cache
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.sourcelink.json
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.csproj.Up2Date
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.dll
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\CODAT\obj\Debug\netstandard2.0\CODAT.pdb

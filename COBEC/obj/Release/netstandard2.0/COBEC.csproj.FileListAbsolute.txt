@@ -66,3 +66,16 @@ C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\COBEC\obj\Release\netst
 C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.csproj.CoreCompileInputs.cache
 C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.dll
 C:\PANDA\Edosoko\ServicioAPI_Planilla\V2\ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.pdb
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.deps.json
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.dll
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.pdb
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\COBEC\bin\Release\netstandard2.0\COBEC.xml
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.csproj.AssemblyReference.cache
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.GeneratedMSBuildEditorConfig.editorconfig
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.AssemblyInfoInputs.cache
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.AssemblyInfo.cs
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.csproj.CoreCompileInputs.cache
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.sourcelink.json
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.dll
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.xml
+C:\PANDA\Edosoko\ServicioAPI_Planilla\Git_ServicioNetCore\COBEC\obj\Release\netstandard2.0\COBEC.pdb
