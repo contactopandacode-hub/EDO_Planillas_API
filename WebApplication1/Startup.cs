@@ -6,6 +6,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using Microsoft.IdentityModel.Protocols;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using ServicioRSNetCore.Controllers.Clases;
@@ -69,11 +70,11 @@ namespace WebApplication1
                 c.OperationFilter<MyHeaderFilter>();
 
                 var xmlFile = "ServicioRSNetCore.xml";
-                var xmlPath = Path.Combine(Directory.GetCurrentDirectory(), "obj", "Debug", "netcoreapp2.1", xmlFile);
+                var xmlPath = Path.Combine(Configuration["xmlPath"],xmlFile);
                 c.IncludeXmlComments(xmlPath);
 
                 var xmlFileCobec = "COBEC.xml";
-                var xmlPathCobec = Path.Combine(Directory.GetCurrentDirectory(), "..", "COBEC", "obj", "Debug", "netstandard2.0", xmlFileCobec);
+                var xmlPathCobec = Path.Combine(Configuration["xmlPathCobec"], xmlFileCobec);
                 c.IncludeXmlComments(xmlPathCobec);
             });
         }
