@@ -61,5 +61,5 @@ BEGIN
 	  AND (PR_PlanillaEmpleado.CompaniaSocio = @par_compania)
 	  AND (PR_PlanillaEmpleado.TipoPlanilla = @par_tipoplanilla
 		   OR @par_tipoplanilla = 'All')
-	  AND PR_PlanillaEmpleado.Empleado = @par_empleado
+	  AND (PR_PlanillaEmpleado.Empleado = @par_empleado OR @par_empleado IS NULL)
 END
