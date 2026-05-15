@@ -21,11 +21,11 @@ namespace CODAT
             this.context = _context;
         }
 
-        public COBEC_PlanillaCabecera Planilla_Boleta_ConsultarCabecera(COBEC_Planilla par_objeto)
+        public List<COBEC_PlanillaCabecera> Planilla_Boleta_ConsultarCabecera(COBEC_Planilla par_objeto)
         {
+            List<COBEC_PlanillaCabecera> listaEmpleados = new List<COBEC_PlanillaCabecera> ();    
             string str_resultado = string.Empty;
             DbCommand _Command = context.Database.GetDbConnection().CreateCommand();
-            COBEC_PlanillaCabecera objdatos = new COBEC_PlanillaCabecera();
             COBEc_Error obj_error = new COBEc_Error();
 
 
@@ -47,18 +47,18 @@ namespace CODAT
                 SqlParameter par_tipo = new SqlParameter("@par_tipoplanilla", par_objeto.tipoPlanilla);
                 _Command.Parameters.Add(par_tipo);
 
-                SqlParameter par_empleado = new SqlParameter("@par_empleado", par_objeto.empleado);
+                SqlParameter par_empleado = new SqlParameter("@par_empleado", string.IsNullOrEmpty(par_objeto.empleado) ? (object)DBNull.Value : par_objeto.empleado);
                 _Command.Parameters.Add(par_empleado);
 
 
                 DbDataReader reader = _Command.ExecuteReader();
 
 
-                if (reader.Read())
+                while (reader.Read())
                 {
-                    objdatos = new COBEC_PlanillaCabecera
+                    COBEC_PlanillaCabecera objdatos = new COBEC_PlanillaCabecera
                     {
-                        Codigo = Convert.IsDBNull(reader["Codigo"]) ? null : reader["Codigo"].ToString(),
+                        Codigo = Convert.ToInt32(reader["Codigo"]),
                         NombreEmpleado = Convert.IsDBNull(reader["NombreEmpleado"]) ? null : reader["NombreEmpleado"].ToString(),
                         TipoPlanilla = Convert.IsDBNull(reader["TipoPlanilla"]) ? null : reader["TipoPlanilla"].ToString(),
                         DescripcionPlanilla = Convert.IsDBNull(reader["DescripcionPlanilla"]) ? null : reader["DescripcionPlanilla"].ToString(),
@@ -88,6 +88,8 @@ namespace CODAT
                         CuentaAbono = Convert.IsDBNull(reader["CuentaAbono"]) ? null : reader["CuentaAbono"].ToString(),
                         MonedaPago = Convert.IsDBNull(reader["MonedaPago"]) ? null : reader["MonedaPago"].ToString()
                     }; 
+
+                    listaEmpleados.Add(objdatos);
                 }
 
                 _Command.Connection.Close();
@@ -98,10 +100,10 @@ namespace CODAT
                 _Command.Connection.Close();
                 throw ex;
             }
-            return objdatos;
+            return listaEmpleados;
         }
 
-        public List<COBEC_PlanillaDetalle> Planilla_Boleta_ConsultarDetalle(COBEC_Planilla par_objeto)
+        public List<COBEC_PlanillaDetalle> Planilla_Boleta_ConsultarDetalle(COBEC_Planilla par_objeto, int par_idcodigo)
         {
             string str_resultado = string.Empty;
             DbCommand _Command = context.Database.GetDbConnection().CreateCommand();
@@ -126,7 +128,7 @@ namespace CODAT
                 SqlParameter par_tipo = new SqlParameter("@par_tipoplanilla", par_objeto.tipoPlanilla);
                 _Command.Parameters.Add(par_tipo);
 
-                SqlParameter par_empleado = new SqlParameter("@par_empleado", par_objeto.empleado);
+                SqlParameter par_empleado = new SqlParameter("@par_empleado", par_idcodigo);
                 _Command.Parameters.Add(par_empleado);
 
                 DbDataReader reader = _Command.ExecuteReader();

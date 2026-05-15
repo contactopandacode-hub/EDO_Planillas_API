@@ -7,6 +7,13 @@ namespace COBEC
     /// <summary>
     /// Respuesta de consulta de planilla del empleado
     /// </summary>
+    /// 
+    public class PlanillaResponseHeader
+    {
+        public int TotalEmpleados { get; set; }
+        public List<PlanillaResponse> Empleados { get; set; } 
+    
+    }
     public class PlanillaResponse
     {
         /// <summary>Código del empleado -->Ejemplo: 10017</summary>        
